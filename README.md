@@ -9,8 +9,8 @@
 
 I’m an **Embedded Systems Developer** passionate about blending hardware with intelligent software. My work lies at the intersection of **firmware development**, **real-time systems**, and **embedded AI**. I design and develop firmware for STM32-based embedded prototypes, integrating different sensors and components for diverse applications including medical, industrial, and assistive technology.
 
-- 🔬 Former **Firmware Intern** at **Indian Institute of Science (IISc), Bangalore**
 - ⚙️ Hands-on with **STM32**, **bare-metal C**, and **sensors**
+- 🔬 Former **Firmware Intern** at **Indian Institute of Science (IISc), Bangalore**
 - 📚 Published multiple **patents** and a **peer-reviewed research paper**
 - 💡 Building impactful solutions using embedded tech
 
