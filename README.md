@@ -64,6 +64,6 @@ I’m an **Embedded Systems Developer** passionate about blending hardware with 
 - 🧑‍💻 [GitHub](https://github.com/SwaroopKaimal)
 - 📧 swaroopskaimal@gmail.com
 
-*"Solder fumes, coffee brews, and mysterious bugs — just an engineer doing his thing."*😌☕
+"Solder fumes, coffee brews, and mysterious bugs — just an engineer doing his thing."😌☕
 
 ---
