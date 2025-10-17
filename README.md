@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Swaroop Kaimal
 
-🎓 Embedded Firmware Developer | Artificial Intelligence Enthusiast  
-📍 Kottayam, Kerala, India | 🛠️ Engineering intelligent embedded systems that sense, process, and respond.
+🎓 Technical University of Munich, Germany
+⚙️ Embedded Firmware Developer | Artificial Intelligence Enthusiast  
+📍 Kerala, India
 
 ---
 
