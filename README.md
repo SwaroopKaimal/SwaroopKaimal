@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Swaroop Kaimal
 
-🎓 Technical University of Munich, Germany
+🎓 Technical University of Munich, Germany 
 ⚙️ Embedded Firmware Developer | Artificial Intelligence Enthusiast  
-📍 Kerala, India
+📍 India
 
 ---
 
@@ -12,7 +12,7 @@ I’m an **Embedded Systems Developer** passionate about blending hardware with 
 
 - ⚙️ Hands-on with **STM32**, **bare-metal C**, and **sensors**
 - 🔬 Former **Firmware Intern** at **Indian Institute of Science (IISc), Bangalore**
-- 📚 Published multiple **patents** and a **peer-reviewed research paper**
+- 📚 Published multiple **patents** and two **peer-reviewed research paper**
 - 💡 Building impactful solutions using embedded tech
 
 ---
@@ -38,10 +38,11 @@ I’m an **Embedded Systems Developer** passionate about blending hardware with 
 - Integrated multiple sensors (ECG, EMG, GSR, Temp., IMU) on STM32 platform.
 - Logged vitals to SD card for post-processing and live monitoring.
 
-### 🦾 Robotic Arm with Vision-Based Control
-> *Google MediaPipe | Timers | PWM | Servo Motors*
-- Built a servo-controlled arm that reacts to human gestures in real-time.
-- Mapped vision input to hardware actuation using UART & PWM.
+### ⚒️ Custom Bootloader for STM32
+> *STM32CubeIDE, UART, Flash Memory, CRC*
+- Developed a bootloader with UART-based host communication using ACK/NACK protocol.
+- Implemented flash erase and write operations with CRC32 checks for reliable updates.
+- Configured MSP, VTOR, and reset handler for safe application jumping
 
 ### ⚙️ Baremetal Driver Development
 > *C | Baremetal | STM32L496ZG-P | Logic Analyzer*
@@ -56,6 +57,7 @@ I’m an **Embedded Systems Developer** passionate about blending hardware with 
 - 👁️ [Head-Mounted Device for Eye Disease Classification]– *Patent Published*
 - 🦿 [Prosthetic Arm with Sensory Regeneration] – *Patent Published*
 - 📖 [Decentralized Energy Trading with Post Quantum Encryption] – *Elsevier, 2025*
+- 📖 [Alleviating Muscle Fatigue in Robotic Prosthetic Arms Through Multi-Sensor Fusion and Adaptive Real-Time Grip Assistance] – *IEEE, 2025*
 
 ---
 
