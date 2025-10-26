@@ -33,16 +33,16 @@ I’m an **Embedded Systems Developer** passionate about blending hardware with 
 
 ## 🚀 Featured Projects
 
+### ⚒️ Dual-Bank Firmware Update Bootloader for STM32
+> *STM32CubeIDE · UART Communication · Dual-Bank Flash Memory · CRC Integrity Check*
+- Designed and implemented a **dual-bank bootloader** enabling seamless firmware updates without interrupting active code execution.  
+- Unitlized a **Python host application** to transfer `.bin` files via UART, packet framing, CRC32 validation, and data transmission.  
+- Implemented **bank switching logic** to write new firmware onto the inactive bank and update the active bank pointer.
+  
 ### 👕 Vitals Monitoring Wearable Vest
 > *STM32CubeIDE | SPI | I2C | UART | FATFS*
 - Integrated multiple sensors (ECG, EMG, GSR, Temp., IMU) on STM32 platform.
 - Logged vitals to SD card for post-processing and live monitoring.
-
-### ⚒️ Custom Bootloader for STM32
-> *STM32CubeIDE, UART, Flash Memory, CRC*
-- Developed a bootloader with UART-based host communication using ACK/NACK protocol.
-- Implemented flash erase and write operations with CRC32 checks for reliable updates.
-- Configured MSP, VTOR, and reset handler for safe application jumping
 
 ### ⚙️ Baremetal Driver Development
 > *C | Baremetal | STM32L496ZG-P | Logic Analyzer*
